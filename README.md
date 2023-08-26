@@ -11,7 +11,7 @@ This project was developed using Node version 16.15.1 and NPM version 8.11.0, bu
 1. Clone the repository:
    ```sh
    git clone https://github.com/yahyaabdulh/pokedex.git
-   cd pokedex-app
+   cd pokedex
 2. Install dependencies:
     ```sh
     npm install
